@@ -33,7 +33,6 @@ This project analyzes real-world health data related to Polycystic Ovary Syndrom
 | File/Folder | Description |
 |-------------|-------------|
 | `PCOD_PRESENTATION.pptx` | Full walkthrough of the project, including objectives, methods, and insights |
-| `Screenshots/` | Contains images of pivot tables, dashboard, and data model |
 | `README.md` | You’re reading it! Project summary and explanation |
 | `Cleaned_Dataset.xlsx` | Cleaned and transformed dataset used for analysis |
 
