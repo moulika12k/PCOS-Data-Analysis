@@ -38,20 +38,30 @@ This project analyzes real-world health data related to Polycystic Ovary Syndrom
 
 
 **BEFORE AFTER RAW DATA COMPARISON**
+Before (Raw Data): The dataset contains missing values, inconsistencies, and irrelevant information that may hinder analysis.
+After (Clean Data): The data is processed to remove errors, handle missing values, and standardize formats, making it ready for analysis.
+
 ![Image](https://github.com/user-attachments/assets/a2c06372-22fb-4ba8-87d0-39d9ab87bfba)
 
 ---
 **DATA MODELING**
+Data Modeling: Data modeling involves designing the structure of data to represent relationships and ensure efficient data storage and retrieval for analysis.
+Star Schema: In the star schema, data is organized into fact tables and dimension tables, simplifying queries and enhancing reporting; I implemented this by creating a central fact table and linking it to dimension tables for easy data access and analysis.
+
 ![Image](https://github.com/user-attachments/assets/79cfcaf5-0185-40a8-a9c4-ab3477bfdf25)
 
 ---
 
 **PIVOT TABLES**
+Used pivot tables to analyze PCOS diagnosis across BMI, age groups, and blood groups. Additional pivots compared hormone levels (LH, FSH, PRL, TSH) between diagnosed and non-diagnosed individuals.
+
 ![Image](https://github.com/user-attachments/assets/91afd584-5cf5-47ab-a119-af2c48fd40d1)
 
 ---
 
 **DASHBOARD**
+Designed a dashboard to visualize PCOS diagnosis trends. Included charts for BMI distribution, hormone levels, age groups, and blood group comparison to highlight key patterns.
+
 ![Image](https://github.com/user-attachments/assets/ebdd6019-ebcd-4dbb-9946-4d0dd66d3c88)
 
 ---
