@@ -34,7 +34,7 @@ This project analyzes real-world health data related to Polycystic Ovary Syndrom
 |-------------|-------------|
 | `PCOS_PRESENTATION.pdf` | Full walkthrough of the project, including objectives, methods, and insights |
 | `README.md` | You’re reading it! Project summary and explanation |
-| `Cleaned_Dataset.xlsx` | Cleaned and transformed dataset used for analysis |
+| `PCOS CLEAN.xlsx` | Cleaned and transformed dataset used for analysis |
 
 
 **BEFORE AFTER RAW DATA COMPARISON**
