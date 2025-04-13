@@ -55,7 +55,7 @@ Star Schema: In the star schema, data is organized into fact tables and dimensio
 **PIVOT TABLES**
 Used pivot tables to analyze PCOS diagnosis across BMI, age groups, and blood groups. Additional pivots compared hormone levels (LH, FSH, PRL, TSH) between diagnosed and non-diagnosed individuals.
 
-![Image](https://github.com/user-attachments/assets/91afd584-5cf5-47ab-a119-af2c48fd40d1)
+![Image](https://github.com/user-attachments/assets/fafc3ea8-6a03-4565-97c8-8ac58ed7ded1)
 
 ---
 
