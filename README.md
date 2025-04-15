@@ -1,4 +1,4 @@
-# 🩺 PCOS Data Analysis using Excel, Power Query, and DAX
+# PCOS Data Analysis using Excel, Power Query, and DAX
 
 ## 📊 Overview
 This project analyzes real-world health data related to Polycystic Ovary Syndrome (PCOS), a common but underdiagnosed hormonal disorder in women. By examining clinical and biological factors using Excel, this project aims to uncover trends and patterns that could support early diagnosis and raise awareness.
