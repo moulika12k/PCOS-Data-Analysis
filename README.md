@@ -59,8 +59,8 @@ Used pivot tables to analyze PCOS diagnosis across BMI, age groups, and blood gr
 
 ---
 
-**DASHBOARD**
-Designed a dashboard to visualize PCOS diagnosis trends. Included charts for BMI distribution, hormone levels, age groups, and blood group comparison to highlight key patterns.
+**REPORT**
+Created a report to present PCOS diagnosis trends. Included visual summaries for BMI distribution, hormone levels, age groups, and blood group comparison to highlight important patterns and findings.
 
 ![Image](https://github.com/user-attachments/assets/ebdd6019-ebcd-4dbb-9946-4d0dd66d3c88)
 
