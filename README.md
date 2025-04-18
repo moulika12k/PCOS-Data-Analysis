@@ -8,7 +8,7 @@ This project analyzes real-world health data related to Polycystic Ovary Syndrom
 ## 🎯 Objectives
 - Analyze patterns and correlations in PCOS-related health data.
 - Understand how clinical variables (like BMI, age, hormone levels) relate to PCOS diagnosis.
-- Build a clean, interactive dashboard summarizing key insights.
+- Build a clean report summarizing key insights.
 - Practice the complete data analysis process using **Excel**, **Power Query**, and **DAX**.
 
 ---
